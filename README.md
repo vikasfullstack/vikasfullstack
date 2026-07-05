@@ -1,59 +1,185 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">Full Stack Developer | React | Node.js | Java</h3>
+<h1 align="center">Hi 👋, I'm Vikas Vishwakarma</h1>
+<h3 align="center">Full Stack Web Developer | React.js | Node.js | Java</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikasfullstack&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer  
-- 🎓 BCA Graduate (YCMOU)  
-- ⚡ I build responsive and scalable web applications  
-- 🌱 Currently improving my backend & problem-solving skills  
+
+💻 Full Stack Web Developer passionate about building modern, responsive, and scalable web applications.
+
+- 🎓 BCA Graduate (YCMOU)
+- 🌱 Currently learning **Java, Spring Boot, and System Design**
+- ⚡ Skilled in creating responsive business websites and full-stack applications
+- 🤝 Open to **Full-Time**, **Internship**, and **Freelance** opportunities
+- 📍 India
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 </p>
 
----
-
-## 📌 Projects
-- 🛒 **E-Commerce Web App**  
-  👉 Full Stack project with authentication, cart & product system  
-
-- 🌐 **Janseva Motors Website**  
-  👉 Business website that improved customer engagement  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasfullstack&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasfullstack&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vikasfullstack&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect With Me
+### Backend
 <p>
-  <a href="https://www.linkedin.com/in/vikas-vishwakarma0088">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
-  </a>
-  <a href="mailto:your.vv757154@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
 </p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PocketBase-B8DBE4?logoColor=black"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🌐 Janseva Motors Website
+Responsive business website developed for a client with a modern UI and improved customer engagement.
+
+**Tech Stack:** React, Node.js, PocketBase, MySQL
+
+🔗 Repository:
+https://github.com/vikasfullstack/janseva-motors-website
+
+🔗 Live Demo:
+(Add Your Live Link)
+
+---
+
+## 🌐 Janseva.co Website
+
+Business website built with responsive UI and optimized performance.
+
+**Tech Stack:** React, Node.js, MySQL
+
+🔗 Repository:
+https://github.com/vikasfullstack/janseva.co
+
+🔗 Live Demo:
+(Add Your Live Link)
+
+---
+
+## 🛒 E-Commerce Web Application
+
+A complete full-stack shopping platform featuring:
+
+- User Authentication
+- Shopping Cart
+- Product Management
+- Admin Dashboard
+
+**Tech Stack:** React, Node.js, Express, MongoDB
+
+---
+
+## 🏥 Hospital Management System
+
+A full-stack application for managing patients, doctors, appointments, and hospital records.
+
+**Tech Stack:** React, Node.js, MySQL
+
+---
+
+## 💼 Portfolio Website
+
+Personal portfolio showcasing my projects, skills, and experience.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikasfullstack&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasfullstack&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=vikasfullstack&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasfullstack&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vikasfullstack&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 💼 Open To Work
+
+✅ Full Stack Web Developer
+
+✅ React Developer
+
+✅ Node.js Developer
+
+✅ Java Developer
+
+✅ Freelance Projects
+
+---
+
+# 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/vikas-vishwakarma0088">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vv757154@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vikasfullstack">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thank you for visiting my profile! ⭐
+</h3>
