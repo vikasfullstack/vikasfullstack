@@ -66,7 +66,7 @@ Responsive business website developed for a client with a modern UI and improved
 https://github.com/vikasfullstack/janseva-motors-website
 
 🔗 Live Demo:
-(Add Your Live Link)
+https://jansevamotors.com
 
 ---
 
@@ -80,7 +80,7 @@ Business website built with responsive UI and optimized performance.
 https://github.com/vikasfullstack/janseva.co
 
 🔗 Live Demo:
-(Add Your Live Link)
+https://janseva.co/
 
 ---
 
@@ -173,7 +173,7 @@ Personal portfolio showcasing my projects, skills, and experience.
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://github.com/vikasfullstack">
 <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/>
 </a>
 </p>
